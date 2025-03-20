@@ -1,0 +1,23 @@
+[
+    {
+        "height": 159.0,
+        "weight": 39.0,
+        "bmi": 15.43,
+        "category": "underweight",
+        "color": "\u001b[34m"
+    },
+    {
+        "height": 196.0,
+        "weight": 35.0,
+        "bmi": 9.11,
+        "category": "underweight",
+        "color": "\u001b[34m"
+    },
+    {
+        "height": 186.0,
+        "weight": 186.0,
+        "bmi": 53.76,
+        "category": "obese",
+        "color": "\u001b[31m"
+    }
+]
